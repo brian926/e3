@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: commandservice
-          image: brian9261799/commandservice:latest
+          image: brian92617/commandservice:latest
 ---
 apiVersion: v1
 kind: Service
